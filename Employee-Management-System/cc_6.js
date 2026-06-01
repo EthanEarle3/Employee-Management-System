@@ -39,8 +39,5 @@ company.addEmployee(employee2);
 company.addEmployee(manager1);
 company.addEmployee(manager2);
 
-console.log(employee1.describe());
-console.log(manager1.describe());
-console.log(manager2.describe());
 console.log("\nCompany Employees:");
 console.log(company.listEmployees());
